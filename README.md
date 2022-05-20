@@ -8,8 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=p-bzh&style=flat-square&color=blue" alt=""/>
   <h1>Hey there</h1>
  </div>
- <h2>My statistiques</h2>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-bzh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=p-bzh&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-bzh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
